@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nilpanes)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nilpanés)
 
 <!--
 **nilpaco/nilpaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
